@@ -1,1 +1,3 @@
 # ElectionAnalysisPython
+For the first part of the challenge, analyzing bank data which contains Proft/Losses for 86 months. Calculated total months, total profit/loss, net change for each period and the average change for total months, calculated the greates increase and descrease in profits and to which period it corresponds.
+For the second part, alayzed election votes data, containting a total of 369711 votes for 3 different cantidates. Calculated the total votes per candidate and the percentage corresponding and the winner of the election.
